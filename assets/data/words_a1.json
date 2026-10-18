@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "de": "Haus",
+    "ar": "منزل",
+    "article": "das",
+    "image": "🏠",
+    "imagePath": "assets/images/words/haus.png",
+    "category": "home"
+  },
+  {
+    "id": 2,
+    "de": "Wohnung",
+    "ar": "شقة",
+    "article": "die",
+    "image": "🏢",
+    "imagePath": "assets/images/words/wohnung.png",
+    "category": "home"
+  },
+  {
+    "id": 3,
+    "de": "Zimmer",
+    "ar": "غرفة",
+    "article": "das",
+    "image": "🚪",
+    "imagePath": "assets/images/words/zimmer.png",
+    "category": "home"
+  },
+  {
+    "id": 4,
+    "de": "Küche",
+    "ar": "مطبخ",
+    "article": "die",
+    "image": "🍳",
+    "imagePath": "assets/images/words/küche.png",
+    "category": "home"
+  },
+  {
+    "id": 5,
+    "de": "Bad",
+    "ar": "حمام",
+    "article": "das",
+    "image": "🛁",
+    "imagePath": "assets/images/words/bad.png",
+    "category": "home"
+  },
+  {
+    "id": 6,
+    "de": "Tür",
+    "ar": "باب",
+    "article": "die",
+    "image": "🚪",
+    "imagePath": "assets/images/words/tür.png",
+    "category": "home"
+  },
+  {
+    "id": 7,
+    "de": "Fenster",
+    "ar": "نافذة",
+    "article": "das",
+    "image": "🪟",
+    "imagePath": "assets/images/words/fenster.png",
+    "category": "home"
+  },
+  {
+    "id": 8,
+    "de": "Tisch",
+    "ar": "طاولة",
+    "article": "der",
+    "image": "🪑",
+    "imagePath": "assets/images/words/tisch.png",
+    "category": "home"
+  },
+  {
+    "id": 9,
+    "de": "Stuhl",
+    "ar": "كرسي",
+    "article": "der",
+    "image": "🪑",
+    "imagePath": "assets/images/words/stuhl.png",
+    "category": "home"
+  },
+  {
+    "id": 10,
+    "de": "Bett",
+    "ar": "سرير",
+    "article": "das",
+    "image": "🛏️",
+    "imagePath": "assets/images/words/bett.png",
+    "category": "home"
+  },
+  {
+    "id": 11,
+    "de": "Lampe",
+    "ar": "مصباح",
+    "article": "die",
+    "image": "💡",
+    "imagePath": "assets/images/words/lampe.png",
+    "category": "home"
+  },
+  {
+    "id": 12,
+    "de": "Schlüssel",
+    "ar": "مفتاح",
+    "article": "der",
+    "image": "🔑",
+    "imagePath": "assets/images/words/schlüssel.png",
+    "category": "home"
+  },
+  {
+    "id": 13,
+    "de": "Buch",
+    "ar": "كتاب",
+    "article": "das",
+    "image": "📖",
+    "imagePath": "assets/images/words/buch.png",
+    "category": "school"
+  },
+  {
+    "id": 14,
+    "de": "Heft",
+    "ar": "دفتر",
+    "article": "das",
+    "image": "📓",
+    "imagePath": "assets/images/words/heft.png",
+    "category": "school"
+  },
+  {
+    "id": 15,
+    "de": "Stift",
+    "ar": "قلم",
+    "article": "der",
+    "image": "✏️",
+    "imagePath": "assets/images/words/stift.png",
+    "category": "school"
+  },
+  {
+    "id": 16,
+    "de": "Schule",
+    "ar": "مدرسة",
+    "article": "die",
+    "image": "🏫",
+    "imagePath": "assets/images/words/schule.png",
+    "category": "school"
+  },
+  {
+    "id": 17,
+    "de": "Lehrer",
+    "ar": "معلم",
+    "article": "der",
+    "image": "👨‍🏫",
+    "imagePath": "assets/images/words/lehrer.png",
+    "category": "school"
+  },
+  {
+    "id": 18,
+    "de": "Lehrerin",
+    "ar": "معلمة",
+    "article": "die",
+    "image": "👩‍🏫",
+    "imagePath": "assets/images/words/lehrerin.png",
+    "category": "school"
+  },
+  {
+    "id": 19,
+    "de": "Schüler",
+    "ar": "تلميذ",
+    "article": "der",
+    "image": "👦",
+    "imagePath": "assets/images/words/schüler.png",
+    "category": "school"
+  },
+  {
+    "id": 20,
+    "de": "Schülerin",
+    "ar": "تلميذة",
+    "article": "die",
+    "image": "👧",
+    "imagePath": "assets/images/words/schülerin.png",
+    "category": "school"
+  },
+  {
+    "id": 21,
+    "de": "Klasse",
+    "ar": "صف",
+    "article": "die",
+    "image": "🪑",
+    "imagePath": "assets/images/words/klasse.png",
+    "category": "school"
+  },
+  {
+    "id": 22,
+    "de": "Pause",
+    "ar": "استراحة",
+    "article": "die",
+    "image": "⏰",
+    "imagePath": "assets/images/words/pause.png",
+    "category": "school"
+  },
+  {
+    "id": 23,
+    "de": "Aufgabe",
+    "ar": "واجب",
+    "article": "die",
+    "image": "📝",
+    "imagePath": "assets/images/words/aufgabe.png",
+    "category": "school"
+  },
+  {
+    "id": 24,
+    "de": "Prüfung",
+    "ar": "امتحان",
+    "article": "die",
+    "image": "📋",
+    "imagePath": "assets/images/words/prüfung.png",
+    "category": "school"
+  },
+  {
+    "id": 25,
+    "de": "Freund",
+    "ar": "صديق",
+    "article": "der",
+    "image": "🧑",
+    "imagePath": "assets/images/words/freund.png",
+    "category": "people"
+  },
+  {
+    "id": 26,
+    "de": "Freundin",
+    "ar": "صديقة",
+    "article": "die",
+    "image": "👩",
+    "imagePath": "assets/images/words/freundin.png",
+    "category": "people"
+  },
+  {
+    "id": 27,
+    "de": "Familie",
+    "ar": "عائلة",
+    "article": "die",
+    "image": "👨‍👩‍👧‍👦",
+    "imagePath": "assets/images/words/familie.png",
+    "category": "people"
+  },
+  {
+    "id": 28,
+    "de": "Mutter",
+    "ar": "أم",
+    "article": "die",
+    "image": "👩",
+    "imagePath": "assets/images/words/mutter.png",
+    "category": "people"
+  },
+  {
+    "id": 29,
+    "de": "Vater",
+    "ar": "أب",
+    "article": "der",
+    "image": "👨",
+    "imagePath": "assets/images/words/vater.png",
+    "category": "people"
+  },
+  {
+    "id": 30,
+    "de": "Kind",
+    "ar": "طفل",
+    "article": "das",
+    "image": "🧒",
+    "imagePath": "assets/images/words/kind.png",
+    "category": "people"
+  },
+  {
+    "id": 31,
+    "de": "Bruder",
+    "ar": "أخ",
+    "article": "der",
+    "image": "👦",
+    "imagePath": "assets/images/words/bruder.png",
+    "category": "people"
+  },
+  {
+    "id": 32,
+    "de": "Schwester",
+    "ar": "أخت",
+    "article": "die",
+    "image": "👧",
+    "imagePath": "assets/images/words/schwester.png",
+    "category": "people"
+  },
+  {
+    "id": 33,
+    "de": "Oma",
+    "ar": "جدة",
+    "article": "die",
+    "image": "👵",
+    "imagePath": "assets/images/words/oma.png",
+    "category": "people"
+  },
+  {
+    "id": 34,
+    "de": "Opa",
+    "ar": "جد",
+    "article": "der",
+    "image": "👴",
+    "imagePath": "assets/images/words/opa.png",
+    "category": "people"
+  },
+  {
+    "id": 35,
+    "de": "Mann",
+    "ar": "رجل",
+    "article": "der",
+    "image": "👨",
+    "imagePath": "assets/images/words/mann.png",
+    "category": "people"
+  },
+  {
+    "id": 36,
+    "de": "Frau",
+    "ar": "امرأة",
+    "article": "die",
+    "image": "👩",
+    "imagePath": "assets/images/words/frau.png",
+    "category": "people"
+  },
+  {
+    "id": 37,
+    "de": "Name",
+    "ar": "اسم",
+    "article": "der",
+    "image": "🪪",
+    "imagePath": "assets/images/words/name.png",
+    "category": "people"
+  },
+  {
+    "id": 38,
+    "de": "Alter",
+    "ar": "عمر",
+    "article": "das",
+    "image": "🎂",
+    "imagePath": "assets/images/words/alter.png",
+    "category": "people"
+  },
+  {
+    "id": 39,
+    "de": "Land",
+    "ar": "بلد",
+    "article": "das",
+    "image": "🌍",
+    "imagePath": "assets/images/words/land.png",
+    "category": "places"
+  },
+  {
+    "id": 40,
+    "de": "Stadt",
+    "ar": "مدينة",
+    "article": "die",
+    "image": "🏙️",
+    "imagePath": "assets/images/words/stadt.png",
+    "category": "places"
+  },
+  {
+    "id": 41,
+    "de": "Dorf",
+    "ar": "قرية",
+    "article": "das",
+    "image": "🏡",
+    "imagePath": "assets/images/words/dorf.png",
+    "category": "places"
+  },
+  {
+    "id": 42,
+    "de": "Straße",
+    "ar": "شارع",
+    "article": "die",
+    "image": "🛣️",
+    "imagePath": "assets/images/words/straße.png",
+    "category": "places"
+  },
+  {
+    "id": 43,
+    "de": "Platz",
+    "ar": "ساحة",
+    "article": "der",
+    "image": "🏞️",
+    "imagePath": "assets/images/words/platz.png",
+    "category": "places"
+  },
+  {
+    "id": 44,
+    "de": "Park",
+    "ar": "حديقة",
+    "article": "der",
+    "image": "🌳",
+    "imagePath": "assets/images/words/park.png",
+    "category": "places"
+  },
+  {
+    "id": 45,
+    "de": "Bahnhof",
+    "ar": "محطة قطار",
+    "article": "der",
+    "image": "🚉",
+    "imagePath": "assets/images/words/bahnhof.png",
+    "category": "places"
+  },
+  {
+    "id": 46,
+    "de": "Flughafen",
+    "ar": "مطار",
+    "article": "der",
+    "image": "✈️",
+    "imagePath": "assets/images/words/flughafen.png",
+    "category": "places"
+  },
+  {
+    "id": 47,
+    "de": "Krankenhaus",
+    "ar": "مستشفى",
+    "article": "das",
+    "image": "🏥",
+    "imagePath": "assets/images/words/krankenhaus.png",
+    "category": "places"
+  },
+  {
+    "id": 48,
+    "de": "Supermarkt",
+    "ar": "سوبرماركت",
+    "article": "der",
+    "image": "🛒",
+    "imagePath": "assets/images/words/supermarkt.png",
+    "category": "places"
+  },
+  {
+    "id": 49,
+    "de": "Restaurant",
+    "ar": "مطعم",
+    "article": "das",
+    "image": "🍽️",
+    "imagePath": "assets/images/words/restaurant.png",
+    "category": "places"
+  },
+  {
+    "id": 50,
+    "de": "Café",
+    "ar": "مقهى",
+    "article": "das",
+    "image": "☕",
+    "imagePath": "assets/images/words/café.png",
+    "category": "places"
+  },
+  {
+    "id": 51,
+    "de": "Apfel",
+    "ar": "تفاحة",
+    "article": "der",
+    "image": "🍎",
+    "imagePath": "assets/images/words/apfel.png",
+    "category": "food"
+  },
+  {
+    "id": 52,
+    "de": "Banane",
+    "ar": "موزة",
+    "article": "die",
+    "image": "🍌",
+    "imagePath": "assets/images/words/banane.png",
+    "category": "food"
+  },
+  {
+    "id": 53,
+    "de": "Brot",
+    "ar": "خبز",
+    "article": "das",
+    "image": "🍞",
+    "imagePath": "assets/images/words/brot.png",
+    "category": "food"
+  },
+  {
+    "id": 54,
+    "de": "Käse",
+    "ar": "جبن",
+    "article": "der",
+    "image": "🧀",
+    "imagePath": "assets/images/words/käse.png",
+    "category": "food"
+  },
+  {
+    "id": 55,
+    "de": "Milch",
+    "ar": "حليب",
+    "article": "die",
+    "image": "🥛",
+    "imagePath": "assets/images/words/milch.png",
+    "category": "food"
+  },
+  {
+    "id": 56,
+    "de": "Wasser",
+    "ar": "ماء",
+    "article": "das",
+    "image": "💧",
+    "imagePath": "assets/images/words/wasser.png",
+    "category": "food"
+  },
+  {
+    "id": 57,
+    "de": "Tee",
+    "ar": "شاي",
+    "article": "der",
+    "image": "🍵",
+    "imagePath": "assets/images/words/tee.png",
+    "category": "food"
+  },
+  {
+    "id": 58,
+    "de": "Kaffee",
+    "ar": "قهوة",
+    "article": "der",
+    "image": "☕",
+    "imagePath": "assets/images/words/kaffee.png",
+    "category": "food"
+  },
+  {
+    "id": 59,
+    "de": "Saft",
+    "ar": "عصير",
+    "article": "der",
+    "image": "🧃",
+    "imagePath": "assets/images/words/saft.png",
+    "category": "food"
+  },
+  {
+    "id": 60,
+    "de": "Fleisch",
+    "ar": "لحم",
+    "article": "das",
+    "image": "🥩",
+    "imagePath": "assets/images/words/fleisch.png",
+    "category": "food"
+  },
+  {
+    "id": 61,
+    "de": "Fisch",
+    "ar": "سمك",
+    "article": "der",
+    "image": "🐟",
+    "imagePath": "assets/images/words/fisch.png",
+    "category": "food"
+  },
+  {
+    "id": 62,
+    "de": "Ei",
+    "ar": "بيضة",
+    "article": "das",
+    "image": "🥚",
+    "imagePath": "assets/images/words/ei.png",
+    "category": "food"
+  },
+  {
+    "id": 63,
+    "de": "Reis",
+    "ar": "أرز",
+    "article": "der",
+    "image": "🍚",
+    "imagePath": "assets/images/words/reis.png",
+    "category": "food"
+  },
+  {
+    "id": 64,
+    "de": "Nudeln",
+    "ar": "معكرونة",
+    "article": "die",
+    "image": "🍝",
+    "imagePath": "assets/images/words/nudeln.png",
+    "category": "food"
+  },
+  {
+    "id": 65,
+    "de": "Suppe",
+    "ar": "شوربة",
+    "article": "die",
+    "image": "🍲",
+    "imagePath": "assets/images/words/suppe.png",
+    "category": "food"
+  },
+  {
+    "id": 66,
+    "de": "Salat",
+    "ar": "سلطة",
+    "article": "der",
+    "image": "🥗",
+    "imagePath": "assets/images/words/salat.png",
+    "category": "food"
+  },
+  {
+    "id": 67,
+    "de": "Zucker",
+    "ar": "سكر",
+    "article": "der",
+    "image": "🍬",
+    "imagePath": "assets/images/words/zucker.png",
+    "category": "food"
+  },
+  {
+    "id": 68,
+    "de": "Salz",
+    "ar": "ملح",
+    "article": "das",
+    "image": "🧂",
+    "imagePath": "assets/images/words/salz.png",
+    "category": "food"
+  },
+  {
+    "id": 69,
+    "de": "Obst",
+    "ar": "فاكهة",
+    "article": "das",
+    "image": "🍇",
+    "imagePath": "assets/images/words/obst.png",
+    "category": "food"
+  },
+  {
+    "id": 70,
+    "de": "Gemüse",
+    "ar": "خضروات",
+    "article": "das",
+    "image": "🥦",
+    "imagePath": "assets/images/words/gemüse.png",
+    "category": "food"
+  },
+  {
+    "id": 71,
+    "de": "Hund",
+    "ar": "كلب",
+    "article": "der",
+    "image": "🐕",
+    "imagePath": "assets/images/words/hund.png",
+    "category": "animals"
+  },
+  {
+    "id": 72,
+    "de": "Katze",
+    "ar": "قطة",
+    "article": "die",
+    "image": "🐈",
+    "imagePath": "assets/images/words/katze.png",
+    "category": "animals"
+  },
+  {
+    "id": 73,
+    "de": "Vogel",
+    "ar": "طائر",
+    "article": "der",
+    "image": "🐦",
+    "imagePath": "assets/images/words/vogel.png",
+    "category": "animals"
+  },
+  {
+    "id": 74,
+    "de": "Pferd",
+    "ar": "حصان",
+    "article": "das",
+    "image": "🐴",
+    "imagePath": "assets/images/words/pferd.png",
+    "category": "animals"
+  },
+  {
+    "id": 75,
+    "de": "Kuh",
+    "ar": "بقرة",
+    "article": "die",
+    "image": "🐄",
+    "imagePath": "assets/images/words/kuh.png",
+    "category": "animals"
+  },
+  {
+    "id": 76,
+    "de": "Schwein",
+    "ar": "خنزير",
+    "article": "das",
+    "image": "🐖",
+    "imagePath": "assets/images/words/schwein.png",
+    "category": "animals"
+  },
+  {
+    "id": 77,
+    "de": "Huhn",
+    "ar": "دجاجة",
+    "article": "das",
+    "image": "🐔",
+    "imagePath": "assets/images/words/huhn.png",
+    "category": "animals"
+  },
+  {
+    "id": 78,
+    "de": "Maus",
+    "ar": "فأر",
+    "article": "die",
+    "image": "🐭",
+    "imagePath": "assets/images/words/maus.png",
+    "category": "animals"
+  },
+  {
+    "id": 79,
+    "de": "Tier",
+    "ar": "حيوان",
+    "article": "das",
+    "image": "🐾",
+    "imagePath": "assets/images/words/tier.png",
+    "category": "animals"
+  },
+  {
+    "id": 80,
+    "de": "Auto",
+    "ar": "سيارة",
+    "article": "das",
+    "image": "🚗",
+    "imagePath": "assets/images/words/auto.png",
+    "category": "transport"
+  },
+  {
+    "id": 81,
+    "de": "Bus",
+    "ar": "حافلة",
+    "article": "der",
+    "image": "🚌",
+    "imagePath": "assets/images/words/bus.png",
+    "category": "transport"
+  },
+  {
+    "id": 82,
+    "de": "Zug",
+    "ar": "قطار",
+    "article": "der",
+    "image": "🚆",
+    "imagePath": "assets/images/words/zug.png",
+    "category": "transport"
+  },
+  {
+    "id": 83,
+    "de": "Fahrrad",
+    "ar": "دراجة",
+    "article": "das",
+    "image": "🚲",
+    "imagePath": "assets/images/words/fahrrad.png",
+    "category": "transport"
+  },
+  {
+    "id": 84,
+    "de": "Flugzeug",
+    "ar": "طائرة",
+    "article": "das",
+    "image": "✈️",
+    "imagePath": "assets/images/words/flugzeug.png",
+    "category": "transport"
+  },
+  {
+    "id": 85,
+    "de": "Schiff",
+    "ar": "سفينة",
+    "article": "das",
+    "image": "🚢",
+    "imagePath": "assets/images/words/schiff.png",
+    "category": "transport"
+  },
+  {
+    "id": 86,
+    "de": "Taxi",
+    "ar": "تاكسي",
+    "article": "das",
+    "image": "🚕",
+    "imagePath": "assets/images/words/taxi.png",
+    "category": "transport"
+  },
+  {
+    "id": 87,
+    "de": "Ticket",
+    "ar": "تذكرة",
+    "article": "das",
+    "image": "🎫",
+    "imagePath": "assets/images/words/ticket.png",
+    "category": "transport"
+  },
+  {
+    "id": 88,
+    "de": "Ampel",
+    "ar": "إشارة مرور",
+    "article": "die",
+    "image": "🚦",
+    "imagePath": "assets/images/words/ampel.png",
+    "category": "transport"
+  },
+  {
+    "id": 89,
+    "de": "Farbe",
+    "ar": "لون",
+    "article": "die",
+    "image": "🎨",
+    "imagePath": "assets/images/words/farbe.png",
+    "category": "colors"
+  },
+  {
+    "id": 90,
+    "de": "Rot",
+    "ar": "أحمر",
+    "article": "das",
+    "image": "🔴",
+    "imagePath": "assets/images/words/rot.png",
+    "category": "colors"
+  },
+  {
+    "id": 91,
+    "de": "Blau",
+    "ar": "أزرق",
+    "article": "das",
+    "image": "🔵",
+    "imagePath": "assets/images/words/blau.png",
+    "category": "colors"
+  },
+  {
+    "id": 92,
+    "de": "Grün",
+    "ar": "أخضر",
+    "article": "das",
+    "image": "🟢",
+    "imagePath": "assets/images/words/grün.png",
+    "category": "colors"
+  },
+  {
+    "id": 93,
+    "de": "Gelb",
+    "ar": "أصفر",
+    "article": "das",
+    "image": "🟡",
+    "imagePath": "assets/images/words/gelb.png",
+    "category": "colors"
+  },
+  {
+    "id": 94,
+    "de": "Schwarz",
+    "ar": "أسود",
+    "article": "das",
+    "image": "⚫",
+    "imagePath": "assets/images/words/schwarz.png",
+    "category": "colors"
+  },
+  {
+    "id": 95,
+    "de": "Weiß",
+    "ar": "أبيض",
+    "article": "das",
+    "image": "⚪",
+    "imagePath": "assets/images/words/weiß.png",
+    "category": "colors"
+  },
+  {
+    "id": 96,
+    "de": "Orange",
+    "ar": "برتقالي",
+    "article": "das",
+    "image": "🟠",
+    "imagePath": "assets/images/words/orange.png",
+    "category": "colors"
+  },
+  {
+    "id": 97,
+    "de": "Braun",
+    "ar": "بني",
+    "article": "das",
+    "image": "🟤",
+    "imagePath": "assets/images/words/braun.png",
+    "category": "colors"
+  },
+  {
+    "id": 98,
+    "de": "Grau",
+    "ar": "رمادي",
+    "article": "das",
+    "image": "⚪",
+    "imagePath": "assets/images/words/grau.png",
+    "category": "colors"
+  },
+  {
+    "id": 99,
+    "de": "Montag",
+    "ar": "الإثنين",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/montag.png",
+    "category": "time"
+  },
+  {
+    "id": 100,
+    "de": "Dienstag",
+    "ar": "الثلاثاء",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/dienstag.png",
+    "category": "time"
+  },
+  {
+    "id": 101,
+    "de": "Mittwoch",
+    "ar": "الأربعاء",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/mittwoch.png",
+    "category": "time"
+  },
+  {
+    "id": 102,
+    "de": "Donnerstag",
+    "ar": "الخميس",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/donnerstag.png",
+    "category": "time"
+  },
+  {
+    "id": 103,
+    "de": "Freitag",
+    "ar": "الجمعة",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/freitag.png",
+    "category": "time"
+  },
+  {
+    "id": 104,
+    "de": "Samstag",
+    "ar": "السبت",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/samstag.png",
+    "category": "time"
+  },
+  {
+    "id": 105,
+    "de": "Sonntag",
+    "ar": "الأحد",
+    "article": "der",
+    "image": "📅",
+    "imagePath": "assets/images/words/sonntag.png",
+    "category": "time"
+  },
+  {
+    "id": 106,
+    "de": "Woche",
+    "ar": "أسبوع",
+    "article": "die",
+    "image": "📆",
+    "imagePath": "assets/images/words/woche.png",
+    "category": "time"
+  },
+  {
+    "id": 107,
+    "de": "Monat",
+    "ar": "شهر",
+    "article": "der",
+    "image": "🗓️",
+    "imagePath": "assets/images/words/monat.png",
+    "category": "time"
+  },
+  {
+    "id": 108,
+    "de": "Jahr",
+    "ar": "سنة",
+    "article": "das",
+    "image": "📅",
+    "imagePath": "assets/images/words/jahr.png",
+    "category": "time"
+  },
+  {
+    "id": 109,
+    "de": "Tag",
+    "ar": "يوم",
+    "article": "der",
+    "image": "☀️",
+    "imagePath": "assets/images/words/tag.png",
+    "category": "time"
+  },
+  {
+    "id": 110,
+    "de": "Nacht",
+    "ar": "ليل",
+    "article": "die",
+    "image": "🌙",
+    "imagePath": "assets/images/words/nacht.png",
+    "category": "time"
+  },
+  {
+    "id": 111,
+    "de": "Morgen",
+    "ar": "صباح",
+    "article": "der",
+    "image": "🌅",
+    "imagePath": "assets/images/words/morgen.png",
+    "category": "time"
+  },
+  {
+    "id": 112,
+    "de": "Abend",
+    "ar": "مساء",
+    "article": "der",
+    "image": "🌆",
+    "imagePath": "assets/images/words/abend.png",
+    "category": "time"
+  },
+  {
+    "id": 113,
+    "de": "Heute",
+    "ar": "اليوم",
+    "article": "—",
+    "image": "📌",
+    "imagePath": "assets/images/words/heute.png",
+    "category": "time"
+  },
+  {
+    "id": 114,
+    "de": "Gestern",
+    "ar": "أمس",
+    "article": "—",
+    "image": "📌",
+    "imagePath": "assets/images/words/gestern.png",
+    "category": "time"
+  },
+  {
+    "id": 115,
+    "de": "Uhr",
+    "ar": "ساعة",
+    "article": "die",
+    "image": "🕐",
+    "imagePath": "assets/images/words/uhr.png",
+    "category": "time"
+  },
+  {
+    "id": 116,
+    "de": "Minute",
+    "ar": "دقيقة",
+    "article": "die",
+    "image": "⏱️",
+    "imagePath": "assets/images/words/minute.png",
+    "category": "time"
+  },
+  {
+    "id": 117,
+    "de": "Stunde",
+    "ar": "ساعة زمنية",
+    "article": "die",
+    "image": "⌛",
+    "imagePath": "assets/images/words/stunde.png",
+    "category": "time"
+  },
+  {
+    "id": 118,
+    "de": "Eins",
+    "ar": "واحد",
+    "article": "—",
+    "image": "1️⃣",
+    "imagePath": "assets/images/words/eins.png",
+    "category": "numbers"
+  },
+  {
+    "id": 119,
+    "de": "Zwei",
+    "ar": "اثنان",
+    "article": "—",
+    "image": "2️⃣",
+    "imagePath": "assets/images/words/zwei.png",
+    "category": "numbers"
+  },
+  {
+    "id": 120,
+    "de": "Drei",
+    "ar": "ثلاثة",
+    "article": "—",
+    "image": "3️⃣",
+    "imagePath": "assets/images/words/drei.png",
+    "category": "numbers"
+  },
+  {
+    "id": 121,
+    "de": "Vier",
+    "ar": "أربعة",
+    "article": "—",
+    "image": "4️⃣",
+    "imagePath": "assets/images/words/vier.png",
+    "category": "numbers"
+  },
+  {
+    "id": 122,
+    "de": "Fünf",
+    "ar": "خمسة",
+    "article": "—",
+    "image": "5️⃣",
+    "imagePath": "assets/images/words/fünf.png",
+    "category": "numbers"
+  },
+  {
+    "id": 123,
+    "de": "Sechs",
+    "ar": "ستة",
+    "article": "—",
+    "image": "6️⃣",
+    "imagePath": "assets/images/words/sechs.png",
+    "category": "numbers"
+  },
+  {
+    "id": 124,
+    "de": "Sieben",
+    "ar": "سبعة",
+    "article": "—",
+    "image": "7️⃣",
+    "imagePath": "assets/images/words/sieben.png",
+    "category": "numbers"
+  },
+  {
+    "id": 125,
+    "de": "Acht",
+    "ar": "ثمانية",
+    "article": "—",
+    "image": "8️⃣",
+    "imagePath": "assets/images/words/acht.png",
+    "category": "numbers"
+  },
+  {
+    "id": 126,
+    "de": "Neun",
+    "ar": "تسعة",
+    "article": "—",
+    "image": "9️⃣",
+    "imagePath": "assets/images/words/neun.png",
+    "category": "numbers"
+  },
+  {
+    "id": 127,
+    "de": "Zehn",
+    "ar": "عشرة",
+    "article": "—",
+    "image": "🔟",
+    "imagePath": "assets/images/words/zehn.png",
+    "category": "numbers"
+  },
+  {
+    "id": 128,
+    "de": "Körper",
+    "ar": "جسم",
+    "article": "der",
+    "image": "🧍",
+    "imagePath": "assets/images/words/körper.png",
+    "category": "body"
+  },
+  {
+    "id": 129,
+    "de": "Kopf",
+    "ar": "رأس",
+    "article": "der",
+    "image": "🗣️",
+    "imagePath": "assets/images/words/kopf.png",
+    "category": "body"
+  },
+  {
+    "id": 130,
+    "de": "Auge",
+    "ar": "عين",
+    "article": "das",
+    "image": "👁️",
+    "imagePath": "assets/images/words/auge.png",
+    "category": "body"
+  },
+  {
+    "id": 131,
+    "de": "Ohr",
+    "ar": "أذن",
+    "article": "das",
+    "image": "👂",
+    "imagePath": "assets/images/words/ohr.png",
+    "category": "body"
+  },
+  {
+    "id": 132,
+    "de": "Nase",
+    "ar": "أنف",
+    "article": "die",
+    "image": "👃",
+    "imagePath": "assets/images/words/nase.png",
+    "category": "body"
+  },
+  {
+    "id": 133,
+    "de": "Mund",
+    "ar": "فم",
+    "article": "der",
+    "image": "👄",
+    "imagePath": "assets/images/words/mund.png",
+    "category": "body"
+  },
+  {
+    "id": 134,
+    "de": "Hand",
+    "ar": "يد",
+    "article": "die",
+    "image": "✋",
+    "imagePath": "assets/images/words/hand.png",
+    "category": "body"
+  },
+  {
+    "id": 135,
+    "de": "Fuß",
+    "ar": "قدم",
+    "article": "der",
+    "image": "🦶",
+    "imagePath": "assets/images/words/fuß.png",
+    "category": "body"
+  },
+  {
+    "id": 136,
+    "de": "Arm",
+    "ar": "ذراع",
+    "article": "der",
+    "image": "💪",
+    "imagePath": "assets/images/words/arm.png",
+    "category": "body"
+  },
+  {
+    "id": 137,
+    "de": "Bein",
+    "ar": "ساق",
+    "article": "das",
+    "image": "🦵",
+    "imagePath": "assets/images/words/bein.png",
+    "category": "body"
+  },
+  {
+    "id": 138,
+    "de": "Kleidung",
+    "ar": "ملابس",
+    "article": "die",
+    "image": "👕",
+    "imagePath": "assets/images/words/kleidung.png",
+    "category": "clothes"
+  },
+  {
+    "id": 139,
+    "de": "Hose",
+    "ar": "بنطلون",
+    "article": "die",
+    "image": "👖",
+    "imagePath": "assets/images/words/hose.png",
+    "category": "clothes"
+  },
+  {
+    "id": 140,
+    "de": "Hemd",
+    "ar": "قميص",
+    "article": "das",
+    "image": "👔",
+    "imagePath": "assets/images/words/hemd.png",
+    "category": "clothes"
+  },
+  {
+    "id": 141,
+    "de": "Jacke",
+    "ar": "سترة",
+    "article": "die",
+    "image": "🧥",
+    "imagePath": "assets/images/words/jacke.png",
+    "category": "clothes"
+  },
+  {
+    "id": 142,
+    "de": "Schuh",
+    "ar": "حذاء",
+    "article": "der",
+    "image": "👟",
+    "imagePath": "assets/images/words/schuh.png",
+    "category": "clothes"
+  },
+  {
+    "id": 143,
+    "de": "Hut",
+    "ar": "قبعة",
+    "article": "der",
+    "image": "🎩",
+    "imagePath": "assets/images/words/hut.png",
+    "category": "clothes"
+  },
+  {
+    "id": 144,
+    "de": "Mantel",
+    "ar": "معطف",
+    "article": "der",
+    "image": "🧥",
+    "imagePath": "assets/images/words/mantel.png",
+    "category": "clothes"
+  },
+  {
+    "id": 145,
+    "de": "Rock",
+    "ar": "تنورة",
+    "article": "der",
+    "image": "👗",
+    "imagePath": "assets/images/words/rock.png",
+    "category": "clothes"
+  },
+  {
+    "id": 146,
+    "de": "Socke",
+    "ar": "جورب",
+    "article": "die",
+    "image": "🧦",
+    "imagePath": "assets/images/words/socke.png",
+    "category": "clothes"
+  },
+  {
+    "id": 147,
+    "de": "Brille",
+    "ar": "نظارة",
+    "article": "die",
+    "image": "👓",
+    "imagePath": "assets/images/words/brille.png",
+    "category": "clothes"
+  },
+  {
+    "id": 148,
+    "de": "Wetter",
+    "ar": "طقس",
+    "article": "das",
+    "image": "🌤️",
+    "imagePath": "assets/images/words/wetter.png",
+    "category": "weather"
+  },
+  {
+    "id": 149,
+    "de": "Sonne",
+    "ar": "شمس",
+    "article": "die",
+    "image": "☀️",
+    "imagePath": "assets/images/words/sonne.png",
+    "category": "weather"
+  },
+  {
+    "id": 150,
+    "de": "Regen",
+    "ar": "مطر",
+    "article": "der",
+    "image": "🌧️",
+    "imagePath": "assets/images/words/regen.png",
+    "category": "weather"
+  },
+  {
+    "id": 151,
+    "de": "Schnee",
+    "ar": "ثلج",
+    "article": "der",
+    "image": "❄️",
+    "imagePath": "assets/images/words/schnee.png",
+    "category": "weather"
+  },
+  {
+    "id": 152,
+    "de": "Wind",
+    "ar": "ريح",
+    "article": "der",
+    "image": "💨",
+    "imagePath": "assets/images/words/wind.png",
+    "category": "weather"
+  },
+  {
+    "id": 153,
+    "de": "Wolke",
+    "ar": "سحابة",
+    "article": "die",
+    "image": "☁️",
+    "imagePath": "assets/images/words/wolke.png",
+    "category": "weather"
+  },
+  {
+    "id": 154,
+    "de": "Himmel",
+    "ar": "سماء",
+    "article": "der",
+    "image": "🌌",
+    "imagePath": "assets/images/words/himmel.png",
+    "category": "weather"
+  },
+  {
+    "id": 155,
+    "de": "kalt",
+    "ar": "بارد",
+    "article": "—",
+    "image": "🥶",
+    "imagePath": "assets/images/words/kalt.png",
+    "category": "weather"
+  },
+  {
+    "id": 156,
+    "de": "warm",
+    "ar": "دافئ",
+    "article": "—",
+    "image": "🌤️",
+    "imagePath": "assets/images/words/warm.png",
+    "category": "weather"
+  },
+  {
+    "id": 157,
+    "de": "heiß",
+    "ar": "حار",
+    "article": "—",
+    "image": "🔥",
+    "imagePath": "assets/images/words/heiß.png",
+    "category": "weather"
+  },
+  {
+    "id": 158,
+    "de": "groß",
+    "ar": "كبير",
+    "article": "—",
+    "image": "⬜",
+    "imagePath": "assets/images/words/groß.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 159,
+    "de": "klein",
+    "ar": "صغير",
+    "article": "—",
+    "image": "◽",
+    "imagePath": "assets/images/words/klein.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 160,
+    "de": "neu",
+    "ar": "جديد",
+    "article": "—",
+    "image": "✨",
+    "imagePath": "assets/images/words/neu.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 161,
+    "de": "alt",
+    "ar": "قديم",
+    "article": "—",
+    "image": "🕰️",
+    "imagePath": "assets/images/words/alt.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 162,
+    "de": "schön",
+    "ar": "جميل",
+    "article": "—",
+    "image": "🌸",
+    "imagePath": "assets/images/words/schön.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 163,
+    "de": "gut",
+    "ar": "جيد",
+    "article": "—",
+    "image": "👍",
+    "imagePath": "assets/images/words/gut.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 164,
+    "de": "schlecht",
+    "ar": "سيء",
+    "article": "—",
+    "image": "👎",
+    "imagePath": "assets/images/words/schlecht.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 165,
+    "de": "schnell",
+    "ar": "سريع",
+    "article": "—",
+    "image": "⚡",
+    "imagePath": "assets/images/words/schnell.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 166,
+    "de": "langsam",
+    "ar": "بطيء",
+    "article": "—",
+    "image": "🐢",
+    "imagePath": "assets/images/words/langsam.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 167,
+    "de": "leicht",
+    "ar": "سهل",
+    "article": "—",
+    "image": "📗",
+    "imagePath": "assets/images/words/leicht.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 168,
+    "de": "schwer",
+    "ar": "صعب",
+    "article": "—",
+    "image": "📕",
+    "imagePath": "assets/images/words/schwer.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 169,
+    "de": "teuer",
+    "ar": "غالي",
+    "article": "—",
+    "image": "💸",
+    "imagePath": "assets/images/words/teuer.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 170,
+    "de": "billig",
+    "ar": "رخيص",
+    "article": "—",
+    "image": "🪙",
+    "imagePath": "assets/images/words/billig.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 171,
+    "de": "offen",
+    "ar": "مفتوح",
+    "article": "—",
+    "image": "🔓",
+    "imagePath": "assets/images/words/offen.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 172,
+    "de": "geschlossen",
+    "ar": "مغلق",
+    "article": "—",
+    "image": "🔒",
+    "imagePath": "assets/images/words/geschlossen.png",
+    "category": "adjectives"
+  },
+  {
+    "id": 173,
+    "de": "ja",
+    "ar": "نعم",
+    "article": "—",
+    "image": "✅",
+    "imagePath": "assets/images/words/ja.png",
+    "category": "basics"
+  },
+  {
+    "id": 174,
+    "de": "nein",
+    "ar": "لا",
+    "article": "—",
+    "image": "❌",
+    "imagePath": "assets/images/words/nein.png",
+    "category": "basics"
+  },
+  {
+    "id": 175,
+    "de": "bitte",
+    "ar": "من فضلك",
+    "article": "—",
+    "image": "🙏",
+    "imagePath": "assets/images/words/bitte.png",
+    "category": "basics"
+  },
+  {
+    "id": 176,
+    "de": "danke",
+    "ar": "شكراً",
+    "article": "—",
+    "image": "💝",
+    "imagePath": "assets/images/words/danke.png",
+    "category": "basics"
+  },
+  {
+    "id": 177,
+    "de": "Hallo",
+    "ar": "مرحبا",
+    "article": "—",
+    "image": "👋",
+    "imagePath": "assets/images/words/hallo.png",
+    "category": "basics"
+  },
+  {
+    "id": 178,
+    "de": "Tschüss",
+    "ar": "إلى اللقاء",
+    "article": "—",
+    "image": "👋",
+    "imagePath": "assets/images/words/tschüss.png",
+    "category": "basics"
+  },
+  {
+    "id": 179,
+    "de": "Guten Tag",
+    "ar": "يوم سعيد",
+    "article": "—",
+    "image": "☀️",
+    "imagePath": "assets/images/words/guten_tag.png",
+    "category": "basics"
+  },
+  {
+    "id": 180,
+    "de": "Guten Morgen",
+    "ar": "صباح الخير",
+    "article": "—",
+    "image": "🌅",
+    "imagePath": "assets/images/words/guten_morgen.png",
+    "category": "basics"
+  },
+  {
+    "id": 181,
+    "de": "Gute Nacht",
+    "ar": "تصبح على خير",
+    "article": "—",
+    "image": "🌙",
+    "imagePath": "assets/images/words/gute_nacht.png",
+    "category": "basics"
+  },
+  {
+    "id": 182,
+    "de": "Entschuldigung",
+    "ar": "عذراً",
+    "article": "—",
+    "image": "🙇",
+    "imagePath": "assets/images/words/entschuldigung.png",
+    "category": "basics"
+  },
+  {
+    "id": 183,
+    "de": "Hilfe",
+    "ar": "مساعدة",
+    "article": "die",
+    "image": "🆘",
+    "imagePath": "assets/images/words/hilfe.png",
+    "category": "basics"
+  },
+  {
+    "id": 184,
+    "de": "Problem",
+    "ar": "مشكلة",
+    "article": "das",
+    "image": "⚠️",
+    "imagePath": "assets/images/words/problem.png",
+    "category": "basics"
+  },
+  {
+    "id": 185,
+    "de": "Frage",
+    "ar": "سؤال",
+    "article": "die",
+    "image": "❓",
+    "imagePath": "assets/images/words/frage.png",
+    "category": "basics"
+  },
+  {
+    "id": 186,
+    "de": "Antwort",
+    "ar": "إجابة",
+    "article": "die",
+    "image": "💬",
+    "imagePath": "assets/images/words/antwort.png",
+    "category": "basics"
+  },
+  {
+    "id": 187,
+    "de": "Idee",
+    "ar": "فكرة",
+    "article": "die",
+    "image": "💡",
+    "imagePath": "assets/images/words/idee.png",
+    "category": "basics"
+  },
+  {
+    "id": 188,
+    "de": "Arbeit",
+    "ar": "عمل",
+    "article": "die",
+    "image": "💼",
+    "imagePath": "assets/images/words/arbeit.png",
+    "category": "work"
+  },
+  {
+    "id": 189,
+    "de": "Beruf",
+    "ar": "مهنة",
+    "article": "der",
+    "image": "👷",
+    "imagePath": "assets/images/words/beruf.png",
+    "category": "work"
+  },
+  {
+    "id": 190,
+    "de": "Büro",
+    "ar": "مكتب",
+    "article": "das",
+    "image": "🏢",
+    "imagePath": "assets/images/words/büro.png",
+    "category": "work"
+  },
+  {
+    "id": 191,
+    "de": "Geld",
+    "ar": "مال",
+    "article": "das",
+    "image": "💰",
+    "imagePath": "assets/images/words/geld.png",
+    "category": "work"
+  },
+  {
+    "id": 192,
+    "de": "Preis",
+    "ar": "سعر",
+    "article": "der",
+    "image": "🏷️",
+    "imagePath": "assets/images/words/preis.png",
+    "category": "work"
+  },
+  {
+    "id": 193,
+    "de": "Telefon",
+    "ar": "هاتف",
+    "article": "das",
+    "image": "📱",
+    "imagePath": "assets/images/words/telefon.png",
+    "category": "tech"
+  },
+  {
+    "id": 194,
+    "de": "Handy",
+    "ar": "جوال",
+    "article": "das",
+    "image": "📱",
+    "imagePath": "assets/images/words/handy.png",
+    "category": "tech"
+  },
+  {
+    "id": 195,
+    "de": "Computer",
+    "ar": "حاسوب",
+    "article": "der",
+    "image": "💻",
+    "imagePath": "assets/images/words/computer.png",
+    "category": "tech"
+  },
+  {
+    "id": 196,
+    "de": "Internet",
+    "ar": "إنترنت",
+    "article": "das",
+    "image": "🌐",
+    "imagePath": "assets/images/words/internet.png",
+    "category": "tech"
+  },
+  {
+    "id": 197,
+    "de": "E-Mail",
+    "ar": "بريد إلكتروني",
+    "article": "die",
+    "image": "📧",
+    "imagePath": "assets/images/words/e_mail.png",
+    "category": "tech"
+  },
+  {
+    "id": 198,
+    "de": "Musik",
+    "ar": "موسيقى",
+    "article": "die",
+    "image": "🎵",
+    "imagePath": "assets/images/words/musik.png",
+    "category": "leisure"
+  },
+  {
+    "id": 199,
+    "de": "Film",
+    "ar": "فيلم",
+    "article": "der",
+    "image": "🎬",
+    "imagePath": "assets/images/words/film.png",
+    "category": "leisure"
+  },
+  {
+    "id": 200,
+    "de": "Sport",
+    "ar": "رياضة",
+    "article": "der",
+    "image": "⚽",
+    "imagePath": "assets/images/words/sport.png",
+    "category": "leisure"
+  }
+]

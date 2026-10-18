@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "infinitive": "sein",
+    "ar": "يكون",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie_Sie": "sind"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie_Sie": "waren"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "gewesen",
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie_Sie": "sind gewesen"
+    },
+    "futur": {
+      "ich": "werde sein",
+      "du": "wirst sein",
+      "er_sie_es": "wird sein",
+      "wir": "werden sein",
+      "ihr": "werdet sein",
+      "sie_Sie": "werden sein"
+    }
+  },
+  {
+    "id": 2,
+    "infinitive": "haben",
+    "ar": "يملك",
+    "praesens": {
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie_Sie": "haben"
+    },
+    "praeteritum": {
+      "ich": "hatte",
+      "du": "hattest",
+      "er_sie_es": "hatte",
+      "wir": "hatten",
+      "ihr": "hattet",
+      "sie_Sie": "hatten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gehabt",
+      "ich": "habe gehabt",
+      "du": "hast gehabt",
+      "er_sie_es": "hat gehabt",
+      "wir": "haben gehabt",
+      "ihr": "habt gehabt",
+      "sie_Sie": "haben gehabt"
+    },
+    "futur": {
+      "ich": "werde haben",
+      "du": "wirst haben",
+      "er_sie_es": "wird haben",
+      "wir": "werden haben",
+      "ihr": "werdet haben",
+      "sie_Sie": "werden haben"
+    }
+  },
+  {
+    "id": 3,
+    "infinitive": "werden",
+    "ar": "يصبح",
+    "praesens": {
+      "ich": "werde",
+      "du": "wirst",
+      "er_sie_es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie_Sie": "werden"
+    },
+    "praeteritum": {
+      "ich": "wurde",
+      "du": "wurdest",
+      "er_sie_es": "wurde",
+      "wir": "wurden",
+      "ihr": "wurdet",
+      "sie_Sie": "wurden"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "geworden",
+      "ich": "bin geworden",
+      "du": "bist geworden",
+      "er_sie_es": "ist geworden",
+      "wir": "sind geworden",
+      "ihr": "seid geworden",
+      "sie_Sie": "sind geworden"
+    },
+    "futur": {
+      "ich": "werde werden",
+      "du": "wirst werden",
+      "er_sie_es": "wird werden",
+      "wir": "werden werden",
+      "ihr": "werdet werden",
+      "sie_Sie": "werden werden"
+    }
+  },
+  {
+    "id": 4,
+    "infinitive": "können",
+    "ar": "يستطيع",
+    "praesens": {
+      "ich": "kann",
+      "du": "kannst",
+      "er_sie_es": "kann",
+      "wir": "können",
+      "ihr": "könnt",
+      "sie_Sie": "können"
+    },
+    "praeteritum": {
+      "ich": "konnte",
+      "du": "konntest",
+      "er_sie_es": "konnte",
+      "wir": "konnten",
+      "ihr": "konntet",
+      "sie_Sie": "konnten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gekonnt",
+      "ich": "habe gekonnt",
+      "du": "hast gekonnt",
+      "er_sie_es": "hat gekonnt",
+      "wir": "haben gekonnt",
+      "ihr": "habt gekonnt",
+      "sie_Sie": "haben gekonnt"
+    },
+    "futur": {
+      "ich": "werde können",
+      "du": "wirst können",
+      "er_sie_es": "wird können",
+      "wir": "werden können",
+      "ihr": "werdet können",
+      "sie_Sie": "werden können"
+    }
+  },
+  {
+    "id": 5,
+    "infinitive": "müssen",
+    "ar": "يجب",
+    "praesens": {
+      "ich": "muss",
+      "du": "musst",
+      "er_sie_es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie_Sie": "müssen"
+    },
+    "praeteritum": {
+      "ich": "musste",
+      "du": "musstest",
+      "er_sie_es": "musste",
+      "wir": "mussten",
+      "ihr": "musstet",
+      "sie_Sie": "mussten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gemusst",
+      "ich": "habe gemusst",
+      "du": "hast gemusst",
+      "er_sie_es": "hat gemusst",
+      "wir": "haben gemusst",
+      "ihr": "habt gemusst",
+      "sie_Sie": "haben gemusst"
+    },
+    "futur": {
+      "ich": "werde müssen",
+      "du": "wirst müssen",
+      "er_sie_es": "wird müssen",
+      "wir": "werden müssen",
+      "ihr": "werdet müssen",
+      "sie_Sie": "werden müssen"
+    }
+  },
+  {
+    "id": 6,
+    "infinitive": "wollen",
+    "ar": "يريد",
+    "praesens": {
+      "ich": "will",
+      "du": "willst",
+      "er_sie_es": "will",
+      "wir": "wollen",
+      "ihr": "wollt",
+      "sie_Sie": "wollen"
+    },
+    "praeteritum": {
+      "ich": "wollte",
+      "du": "wolltest",
+      "er_sie_es": "wollte",
+      "wir": "wollten",
+      "ihr": "wolltet",
+      "sie_Sie": "wollten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gewollt",
+      "ich": "habe gewollt",
+      "du": "hast gewollt",
+      "er_sie_es": "hat gewollt",
+      "wir": "haben gewollt",
+      "ihr": "habt gewollt",
+      "sie_Sie": "haben gewollt"
+    },
+    "futur": {
+      "ich": "werde wollen",
+      "du": "wirst wollen",
+      "er_sie_es": "wird wollen",
+      "wir": "werden wollen",
+      "ihr": "werdet wollen",
+      "sie_Sie": "werden wollen"
+    }
+  },
+  {
+    "id": 7,
+    "infinitive": "sollen",
+    "ar": "ينبغي",
+    "praesens": {
+      "ich": "soll",
+      "du": "sollst",
+      "er_sie_es": "soll",
+      "wir": "sollen",
+      "ihr": "sollt",
+      "sie_Sie": "sollen"
+    },
+    "praeteritum": {
+      "ich": "sollte",
+      "du": "solltest",
+      "er_sie_es": "sollte",
+      "wir": "sollten",
+      "ihr": "solltet",
+      "sie_Sie": "sollten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gesollt",
+      "ich": "habe gesollt",
+      "du": "hast gesollt",
+      "er_sie_es": "hat gesollt",
+      "wir": "haben gesollt",
+      "ihr": "habt gesollt",
+      "sie_Sie": "haben gesollt"
+    },
+    "futur": {
+      "ich": "werde sollen",
+      "du": "wirst sollen",
+      "er_sie_es": "wird sollen",
+      "wir": "werden sollen",
+      "ihr": "werdet sollen",
+      "sie_Sie": "werden sollen"
+    }
+  },
+  {
+    "id": 8,
+    "infinitive": "dürfen",
+    "ar": "يُسمح",
+    "praesens": {
+      "ich": "darf",
+      "du": "darfst",
+      "er_sie_es": "darf",
+      "wir": "dürfen",
+      "ihr": "dürft",
+      "sie_Sie": "dürfen"
+    },
+    "praeteritum": {
+      "ich": "durfte",
+      "du": "durftest",
+      "er_sie_es": "durfte",
+      "wir": "durften",
+      "ihr": "durftet",
+      "sie_Sie": "durften"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gedurft",
+      "ich": "habe gedurft",
+      "du": "hast gedurft",
+      "er_sie_es": "hat gedurft",
+      "wir": "haben gedurft",
+      "ihr": "habt gedurft",
+      "sie_Sie": "haben gedurft"
+    },
+    "futur": {
+      "ich": "werde dürfen",
+      "du": "wirst dürfen",
+      "er_sie_es": "wird dürfen",
+      "wir": "werden dürfen",
+      "ihr": "werdet dürfen",
+      "sie_Sie": "werden dürfen"
+    }
+  },
+  {
+    "id": 9,
+    "infinitive": "mögen",
+    "ar": "يحب/يرغب",
+    "praesens": {
+      "ich": "mag",
+      "du": "magst",
+      "er_sie_es": "mag",
+      "wir": "mögen",
+      "ihr": "mögt",
+      "sie_Sie": "mögen"
+    },
+    "praeteritum": {
+      "ich": "mochte",
+      "du": "mochtest",
+      "er_sie_es": "mochte",
+      "wir": "mochten",
+      "ihr": "mochtet",
+      "sie_Sie": "mochten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gemocht",
+      "ich": "habe gemocht",
+      "du": "hast gemocht",
+      "er_sie_es": "hat gemocht",
+      "wir": "haben gemocht",
+      "ihr": "habt gemocht",
+      "sie_Sie": "haben gemocht"
+    },
+    "futur": {
+      "ich": "werde mögen",
+      "du": "wirst mögen",
+      "er_sie_es": "wird mögen",
+      "wir": "werden mögen",
+      "ihr": "werdet mögen",
+      "sie_Sie": "werden mögen"
+    }
+  },
+  {
+    "id": 10,
+    "infinitive": "machen",
+    "ar": "يفعل",
+    "praesens": {
+      "ich": "mache",
+      "du": "machst",
+      "er_sie_es": "macht",
+      "wir": "machen",
+      "ihr": "macht",
+      "sie_Sie": "machen"
+    },
+    "praeteritum": {
+      "ich": "machte",
+      "du": "machtest",
+      "er_sie_es": "machte",
+      "wir": "machten",
+      "ihr": "machtet",
+      "sie_Sie": "machten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gemacht",
+      "ich": "habe gemacht",
+      "du": "hast gemacht",
+      "er_sie_es": "hat gemacht",
+      "wir": "haben gemacht",
+      "ihr": "habt gemacht",
+      "sie_Sie": "haben gemacht"
+    },
+    "futur": {
+      "ich": "werde machen",
+      "du": "wirst machen",
+      "er_sie_es": "wird machen",
+      "wir": "werden machen",
+      "ihr": "werdet machen",
+      "sie_Sie": "werden machen"
+    }
+  },
+  {
+    "id": 11,
+    "infinitive": "gehen",
+    "ar": "يذهب",
+    "praesens": {
+      "ich": "gehe",
+      "du": "gehst",
+      "er_sie_es": "geht",
+      "wir": "gehen",
+      "ihr": "geht",
+      "sie_Sie": "gehen"
+    },
+    "praeteritum": {
+      "ich": "ging",
+      "du": "gingst",
+      "er_sie_es": "ging",
+      "wir": "gingen",
+      "ihr": "gingt",
+      "sie_Sie": "gingen"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "gegangen",
+      "ich": "bin gegangen",
+      "du": "bist gegangen",
+      "er_sie_es": "ist gegangen",
+      "wir": "sind gegangen",
+      "ihr": "seid gegangen",
+      "sie_Sie": "sind gegangen"
+    },
+    "futur": {
+      "ich": "werde gehen",
+      "du": "wirst gehen",
+      "er_sie_es": "wird gehen",
+      "wir": "werden gehen",
+      "ihr": "werdet gehen",
+      "sie_Sie": "werden gehen"
+    }
+  },
+  {
+    "id": 12,
+    "infinitive": "kommen",
+    "ar": "يأتي",
+    "praesens": {
+      "ich": "komme",
+      "du": "kommst",
+      "er_sie_es": "kommt",
+      "wir": "kommen",
+      "ihr": "kommt",
+      "sie_Sie": "kommen"
+    },
+    "praeteritum": {
+      "ich": "kam",
+      "du": "kamst",
+      "er_sie_es": "kam",
+      "wir": "kamen",
+      "ihr": "kamt",
+      "sie_Sie": "kamen"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "gekommen",
+      "ich": "bin gekommen",
+      "du": "bist gekommen",
+      "er_sie_es": "ist gekommen",
+      "wir": "sind gekommen",
+      "ihr": "seid gekommen",
+      "sie_Sie": "sind gekommen"
+    },
+    "futur": {
+      "ich": "werde kommen",
+      "du": "wirst kommen",
+      "er_sie_es": "wird kommen",
+      "wir": "werden kommen",
+      "ihr": "werdet kommen",
+      "sie_Sie": "werden kommen"
+    }
+  },
+  {
+    "id": 13,
+    "infinitive": "sehen",
+    "ar": "يرى",
+    "praesens": {
+      "ich": "sehe",
+      "du": "siehst",
+      "er_sie_es": "sieht",
+      "wir": "sehen",
+      "ihr": "seht",
+      "sie_Sie": "sehen"
+    },
+    "praeteritum": {
+      "ich": "sah",
+      "du": "sahst",
+      "er_sie_es": "sah",
+      "wir": "sahen",
+      "ihr": "saht",
+      "sie_Sie": "sahen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gesehen",
+      "ich": "habe gesehen",
+      "du": "hast gesehen",
+      "er_sie_es": "hat gesehen",
+      "wir": "haben gesehen",
+      "ihr": "habt gesehen",
+      "sie_Sie": "haben gesehen"
+    },
+    "futur": {
+      "ich": "werde sehen",
+      "du": "wirst sehen",
+      "er_sie_es": "wird sehen",
+      "wir": "werden sehen",
+      "ihr": "werdet sehen",
+      "sie_Sie": "werden sehen"
+    }
+  },
+  {
+    "id": 14,
+    "infinitive": "hören",
+    "ar": "يسمع",
+    "praesens": {
+      "ich": "höre",
+      "du": "hörst",
+      "er_sie_es": "hört",
+      "wir": "hören",
+      "ihr": "hört",
+      "sie_Sie": "hören"
+    },
+    "praeteritum": {
+      "ich": "hörte",
+      "du": "hörtest",
+      "er_sie_es": "hörte",
+      "wir": "hörten",
+      "ihr": "hörtet",
+      "sie_Sie": "hörten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gehört",
+      "ich": "habe gehört",
+      "du": "hast gehört",
+      "er_sie_es": "hat gehört",
+      "wir": "haben gehört",
+      "ihr": "habt gehört",
+      "sie_Sie": "haben gehört"
+    },
+    "futur": {
+      "ich": "werde hören",
+      "du": "wirst hören",
+      "er_sie_es": "wird hören",
+      "wir": "werden hören",
+      "ihr": "werdet hören",
+      "sie_Sie": "werden hören"
+    }
+  },
+  {
+    "id": 15,
+    "infinitive": "sprechen",
+    "ar": "يتكلم",
+    "praesens": {
+      "ich": "spreche",
+      "du": "sprichst",
+      "er_sie_es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie_Sie": "sprechen"
+    },
+    "praeteritum": {
+      "ich": "sprach",
+      "du": "sprachst",
+      "er_sie_es": "sprach",
+      "wir": "sprachen",
+      "ihr": "spracht",
+      "sie_Sie": "sprachen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gesprochen",
+      "ich": "habe gesprochen",
+      "du": "hast gesprochen",
+      "er_sie_es": "hat gesprochen",
+      "wir": "haben gesprochen",
+      "ihr": "habt gesprochen",
+      "sie_Sie": "haben gesprochen"
+    },
+    "futur": {
+      "ich": "werde sprechen",
+      "du": "wirst sprechen",
+      "er_sie_es": "wird sprechen",
+      "wir": "werden sprechen",
+      "ihr": "werdet sprechen",
+      "sie_Sie": "werden sprechen"
+    }
+  },
+  {
+    "id": 16,
+    "infinitive": "sagen",
+    "ar": "يقول",
+    "praesens": {
+      "ich": "sage",
+      "du": "sagst",
+      "er_sie_es": "sagt",
+      "wir": "sagen",
+      "ihr": "sagt",
+      "sie_Sie": "sagen"
+    },
+    "praeteritum": {
+      "ich": "sagte",
+      "du": "sagtest",
+      "er_sie_es": "sagte",
+      "wir": "sagten",
+      "ihr": "sagtet",
+      "sie_Sie": "sagten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gesagt",
+      "ich": "habe gesagt",
+      "du": "hast gesagt",
+      "er_sie_es": "hat gesagt",
+      "wir": "haben gesagt",
+      "ihr": "habt gesagt",
+      "sie_Sie": "haben gesagt"
+    },
+    "futur": {
+      "ich": "werde sagen",
+      "du": "wirst sagen",
+      "er_sie_es": "wird sagen",
+      "wir": "werden sagen",
+      "ihr": "werdet sagen",
+      "sie_Sie": "werden sagen"
+    }
+  },
+  {
+    "id": 17,
+    "infinitive": "fragen",
+    "ar": "يسأل",
+    "praesens": {
+      "ich": "frage",
+      "du": "fragst",
+      "er_sie_es": "fragt",
+      "wir": "fragen",
+      "ihr": "fragt",
+      "sie_Sie": "fragen"
+    },
+    "praeteritum": {
+      "ich": "fragte",
+      "du": "fragtest",
+      "er_sie_es": "fragte",
+      "wir": "fragten",
+      "ihr": "fragtet",
+      "sie_Sie": "fragten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gefragt",
+      "ich": "habe gefragt",
+      "du": "hast gefragt",
+      "er_sie_es": "hat gefragt",
+      "wir": "haben gefragt",
+      "ihr": "habt gefragt",
+      "sie_Sie": "haben gefragt"
+    },
+    "futur": {
+      "ich": "werde fragen",
+      "du": "wirst fragen",
+      "er_sie_es": "wird fragen",
+      "wir": "werden fragen",
+      "ihr": "werdet fragen",
+      "sie_Sie": "werden fragen"
+    }
+  },
+  {
+    "id": 18,
+    "infinitive": "antworten",
+    "ar": "يجيب",
+    "praesens": {
+      "ich": "antworte",
+      "du": "antwortest",
+      "er_sie_es": "antwortet",
+      "wir": "antworten",
+      "ihr": "antwortet",
+      "sie_Sie": "antworten"
+    },
+    "praeteritum": {
+      "ich": "antwortete",
+      "du": "antwortetest",
+      "er_sie_es": "antwortete",
+      "wir": "antworteten",
+      "ihr": "antwortetet",
+      "sie_Sie": "antworteten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geantwortet",
+      "ich": "habe geantwortet",
+      "du": "hast geantwortet",
+      "er_sie_es": "hat geantwortet",
+      "wir": "haben geantwortet",
+      "ihr": "habt geantwortet",
+      "sie_Sie": "haben geantwortet"
+    },
+    "futur": {
+      "ich": "werde antworten",
+      "du": "wirst antworten",
+      "er_sie_es": "wird antworten",
+      "wir": "werden antworten",
+      "ihr": "werdet antworten",
+      "sie_Sie": "werden antworten"
+    }
+  },
+  {
+    "id": 19,
+    "infinitive": "lesen",
+    "ar": "يقرأ",
+    "praesens": {
+      "ich": "lese",
+      "du": "liest",
+      "er_sie_es": "liest",
+      "wir": "lesen",
+      "ihr": "lest",
+      "sie_Sie": "lesen"
+    },
+    "praeteritum": {
+      "ich": "las",
+      "du": "lasest",
+      "er_sie_es": "las",
+      "wir": "lasen",
+      "ihr": "last",
+      "sie_Sie": "lasen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gelesen",
+      "ich": "habe gelesen",
+      "du": "hast gelesen",
+      "er_sie_es": "hat gelesen",
+      "wir": "haben gelesen",
+      "ihr": "habt gelesen",
+      "sie_Sie": "haben gelesen"
+    },
+    "futur": {
+      "ich": "werde lesen",
+      "du": "wirst lesen",
+      "er_sie_es": "wird lesen",
+      "wir": "werden lesen",
+      "ihr": "werdet lesen",
+      "sie_Sie": "werden lesen"
+    }
+  },
+  {
+    "id": 20,
+    "infinitive": "schreiben",
+    "ar": "يكتب",
+    "praesens": {
+      "ich": "schreibe",
+      "du": "schreibst",
+      "er_sie_es": "schreibt",
+      "wir": "schreiben",
+      "ihr": "schreibt",
+      "sie_Sie": "schreiben"
+    },
+    "praeteritum": {
+      "ich": "schrieb",
+      "du": "schriebst",
+      "er_sie_es": "schrieb",
+      "wir": "schrieben",
+      "ihr": "schriebt",
+      "sie_Sie": "schrieben"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geschrieben",
+      "ich": "habe geschrieben",
+      "du": "hast geschrieben",
+      "er_sie_es": "hat geschrieben",
+      "wir": "haben geschrieben",
+      "ihr": "habt geschrieben",
+      "sie_Sie": "haben geschrieben"
+    },
+    "futur": {
+      "ich": "werde schreiben",
+      "du": "wirst schreiben",
+      "er_sie_es": "wird schreiben",
+      "wir": "werden schreiben",
+      "ihr": "werdet schreiben",
+      "sie_Sie": "werden schreiben"
+    }
+  },
+  {
+    "id": 21,
+    "infinitive": "lernen",
+    "ar": "يتعلم",
+    "praesens": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er_sie_es": "lernt",
+      "wir": "lernen",
+      "ihr": "lernt",
+      "sie_Sie": "lernen"
+    },
+    "praeteritum": {
+      "ich": "lernte",
+      "du": "lerntest",
+      "er_sie_es": "lernte",
+      "wir": "lernten",
+      "ihr": "lerntet",
+      "sie_Sie": "lernten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gelernt",
+      "ich": "habe gelernt",
+      "du": "hast gelernt",
+      "er_sie_es": "hat gelernt",
+      "wir": "haben gelernt",
+      "ihr": "habt gelernt",
+      "sie_Sie": "haben gelernt"
+    },
+    "futur": {
+      "ich": "werde lernen",
+      "du": "wirst lernen",
+      "er_sie_es": "wird lernen",
+      "wir": "werden lernen",
+      "ihr": "werdet lernen",
+      "sie_Sie": "werden lernen"
+    }
+  },
+  {
+    "id": 22,
+    "infinitive": "arbeiten",
+    "ar": "يعمل",
+    "praesens": {
+      "ich": "arbeite",
+      "du": "arbeitest",
+      "er_sie_es": "arbeitet",
+      "wir": "arbeiten",
+      "ihr": "arbeitet",
+      "sie_Sie": "arbeiten"
+    },
+    "praeteritum": {
+      "ich": "arbeitete",
+      "du": "arbeitetest",
+      "er_sie_es": "arbeitete",
+      "wir": "arbeiteten",
+      "ihr": "arbeitetet",
+      "sie_Sie": "arbeiteten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gearbeitet",
+      "ich": "habe gearbeitet",
+      "du": "hast gearbeitet",
+      "er_sie_es": "hat gearbeitet",
+      "wir": "haben gearbeitet",
+      "ihr": "habt gearbeitet",
+      "sie_Sie": "haben gearbeitet"
+    },
+    "futur": {
+      "ich": "werde arbeiten",
+      "du": "wirst arbeiten",
+      "er_sie_es": "wird arbeiten",
+      "wir": "werden arbeiten",
+      "ihr": "werdet arbeiten",
+      "sie_Sie": "werden arbeiten"
+    }
+  },
+  {
+    "id": 23,
+    "infinitive": "spielen",
+    "ar": "يلعب",
+    "praesens": {
+      "ich": "spiele",
+      "du": "spielst",
+      "er_sie_es": "spielt",
+      "wir": "spielen",
+      "ihr": "spielt",
+      "sie_Sie": "spielen"
+    },
+    "praeteritum": {
+      "ich": "spielte",
+      "du": "spieltest",
+      "er_sie_es": "spielte",
+      "wir": "spielten",
+      "ihr": "spieltet",
+      "sie_Sie": "spielten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gespielt",
+      "ich": "habe gespielt",
+      "du": "hast gespielt",
+      "er_sie_es": "hat gespielt",
+      "wir": "haben gespielt",
+      "ihr": "habt gespielt",
+      "sie_Sie": "haben gespielt"
+    },
+    "futur": {
+      "ich": "werde spielen",
+      "du": "wirst spielen",
+      "er_sie_es": "wird spielen",
+      "wir": "werden spielen",
+      "ihr": "werdet spielen",
+      "sie_Sie": "werden spielen"
+    }
+  },
+  {
+    "id": 24,
+    "infinitive": "wohnen",
+    "ar": "يسكن",
+    "praesens": {
+      "ich": "wohne",
+      "du": "wohnst",
+      "er_sie_es": "wohnt",
+      "wir": "wohnen",
+      "ihr": "wohnt",
+      "sie_Sie": "wohnen"
+    },
+    "praeteritum": {
+      "ich": "wohnte",
+      "du": "wohntest",
+      "er_sie_es": "wohnte",
+      "wir": "wohnten",
+      "ihr": "wohntet",
+      "sie_Sie": "wohnten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gewohnt",
+      "ich": "habe gewohnt",
+      "du": "hast gewohnt",
+      "er_sie_es": "hat gewohnt",
+      "wir": "haben gewohnt",
+      "ihr": "habt gewohnt",
+      "sie_Sie": "haben gewohnt"
+    },
+    "futur": {
+      "ich": "werde wohnen",
+      "du": "wirst wohnen",
+      "er_sie_es": "wird wohnen",
+      "wir": "werden wohnen",
+      "ihr": "werdet wohnen",
+      "sie_Sie": "werden wohnen"
+    }
+  },
+  {
+    "id": 25,
+    "infinitive": "leben",
+    "ar": "يعيش",
+    "praesens": {
+      "ich": "lebe",
+      "du": "lebst",
+      "er_sie_es": "lebt",
+      "wir": "leben",
+      "ihr": "lebt",
+      "sie_Sie": "leben"
+    },
+    "praeteritum": {
+      "ich": "lebte",
+      "du": "lebtest",
+      "er_sie_es": "lebte",
+      "wir": "lebten",
+      "ihr": "lebtet",
+      "sie_Sie": "lebten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gelebt",
+      "ich": "habe gelebt",
+      "du": "hast gelebt",
+      "er_sie_es": "hat gelebt",
+      "wir": "haben gelebt",
+      "ihr": "habt gelebt",
+      "sie_Sie": "haben gelebt"
+    },
+    "futur": {
+      "ich": "werde leben",
+      "du": "wirst leben",
+      "er_sie_es": "wird leben",
+      "wir": "werden leben",
+      "ihr": "werdet leben",
+      "sie_Sie": "werden leben"
+    }
+  },
+  {
+    "id": 26,
+    "infinitive": "essen",
+    "ar": "يأكل",
+    "praesens": {
+      "ich": "esse",
+      "du": "isst",
+      "er_sie_es": "isst",
+      "wir": "essen",
+      "ihr": "esst",
+      "sie_Sie": "essen"
+    },
+    "praeteritum": {
+      "ich": "aß",
+      "du": "aßest",
+      "er_sie_es": "aß",
+      "wir": "aßen",
+      "ihr": "aßt",
+      "sie_Sie": "aßen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gegessen",
+      "ich": "habe gegessen",
+      "du": "hast gegessen",
+      "er_sie_es": "hat gegessen",
+      "wir": "haben gegessen",
+      "ihr": "habt gegessen",
+      "sie_Sie": "haben gegessen"
+    },
+    "futur": {
+      "ich": "werde essen",
+      "du": "wirst essen",
+      "er_sie_es": "wird essen",
+      "wir": "werden essen",
+      "ihr": "werdet essen",
+      "sie_Sie": "werden essen"
+    }
+  },
+  {
+    "id": 27,
+    "infinitive": "trinken",
+    "ar": "يشرب",
+    "praesens": {
+      "ich": "trinke",
+      "du": "trinkst",
+      "er_sie_es": "trinkt",
+      "wir": "trinken",
+      "ihr": "trinkt",
+      "sie_Sie": "trinken"
+    },
+    "praeteritum": {
+      "ich": "trank",
+      "du": "trankst",
+      "er_sie_es": "trank",
+      "wir": "tranken",
+      "ihr": "trankt",
+      "sie_Sie": "tranken"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "getrunken",
+      "ich": "habe getrunken",
+      "du": "hast getrunken",
+      "er_sie_es": "hat getrunken",
+      "wir": "haben getrunken",
+      "ihr": "habt getrunken",
+      "sie_Sie": "haben getrunken"
+    },
+    "futur": {
+      "ich": "werde trinken",
+      "du": "wirst trinken",
+      "er_sie_es": "wird trinken",
+      "wir": "werden trinken",
+      "ihr": "werdet trinken",
+      "sie_Sie": "werden trinken"
+    }
+  },
+  {
+    "id": 28,
+    "infinitive": "schlafen",
+    "ar": "ينام",
+    "praesens": {
+      "ich": "schlafe",
+      "du": "schläfst",
+      "er_sie_es": "schläft",
+      "wir": "schlafen",
+      "ihr": "schlaft",
+      "sie_Sie": "schlafen"
+    },
+    "praeteritum": {
+      "ich": "schlief",
+      "du": "schliefst",
+      "er_sie_es": "schlief",
+      "wir": "schliefen",
+      "ihr": "schlieft",
+      "sie_Sie": "schliefen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geschlafen",
+      "ich": "habe geschlafen",
+      "du": "hast geschlafen",
+      "er_sie_es": "hat geschlafen",
+      "wir": "haben geschlafen",
+      "ihr": "habt geschlafen",
+      "sie_Sie": "haben geschlafen"
+    },
+    "futur": {
+      "ich": "werde schlafen",
+      "du": "wirst schlafen",
+      "er_sie_es": "wird schlafen",
+      "wir": "werden schlafen",
+      "ihr": "werdet schlafen",
+      "sie_Sie": "werden schlafen"
+    }
+  },
+  {
+    "id": 29,
+    "infinitive": "aufstehen",
+    "ar": "ينهض",
+    "praesens": {
+      "ich": "stehe auf",
+      "du": "stehst auf",
+      "er_sie_es": "steht auf",
+      "wir": "stehen auf",
+      "ihr": "steht auf",
+      "sie_Sie": "stehen auf"
+    },
+    "praeteritum": {
+      "ich": "stand auf",
+      "du": "standest auf",
+      "er_sie_es": "stand auf",
+      "wir": "standen auf",
+      "ihr": "standet auf",
+      "sie_Sie": "standen auf"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "aufgestanden",
+      "ich": "bin aufgestanden",
+      "du": "bist aufgestanden",
+      "er_sie_es": "ist aufgestanden",
+      "wir": "sind aufgestanden",
+      "ihr": "seid aufgestanden",
+      "sie_Sie": "sind aufgestanden"
+    },
+    "futur": {
+      "ich": "werde aufstehen",
+      "du": "wirst aufstehen",
+      "er_sie_es": "wird aufstehen",
+      "wir": "werden aufstehen",
+      "ihr": "werdet aufstehen",
+      "sie_Sie": "werden aufstehen"
+    }
+  },
+  {
+    "id": 30,
+    "infinitive": "kaufen",
+    "ar": "يشتري",
+    "praesens": {
+      "ich": "kaufe",
+      "du": "kaufst",
+      "er_sie_es": "kauft",
+      "wir": "kaufen",
+      "ihr": "kauft",
+      "sie_Sie": "kaufen"
+    },
+    "praeteritum": {
+      "ich": "kaufte",
+      "du": "kauftest",
+      "er_sie_es": "kaufte",
+      "wir": "kauften",
+      "ihr": "kauftet",
+      "sie_Sie": "kauften"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gekauft",
+      "ich": "habe gekauft",
+      "du": "hast gekauft",
+      "er_sie_es": "hat gekauft",
+      "wir": "haben gekauft",
+      "ihr": "habt gekauft",
+      "sie_Sie": "haben gekauft"
+    },
+    "futur": {
+      "ich": "werde kaufen",
+      "du": "wirst kaufen",
+      "er_sie_es": "wird kaufen",
+      "wir": "werden kaufen",
+      "ihr": "werdet kaufen",
+      "sie_Sie": "werden kaufen"
+    }
+  },
+  {
+    "id": 31,
+    "infinitive": "verkaufen",
+    "ar": "يبيع",
+    "praesens": {
+      "ich": "verkaufe",
+      "du": "verkaufst",
+      "er_sie_es": "verkauft",
+      "wir": "verkaufen",
+      "ihr": "verkauft",
+      "sie_Sie": "verkaufen"
+    },
+    "praeteritum": {
+      "ich": "verkaufte",
+      "du": "verkauftest",
+      "er_sie_es": "verkaufte",
+      "wir": "verkauften",
+      "ihr": "verkauftet",
+      "sie_Sie": "verkauften"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "verkauft",
+      "ich": "habe verkauft",
+      "du": "hast verkauft",
+      "er_sie_es": "hat verkauft",
+      "wir": "haben verkauft",
+      "ihr": "habt verkauft",
+      "sie_Sie": "haben verkauft"
+    },
+    "futur": {
+      "ich": "werde verkaufen",
+      "du": "wirst verkaufen",
+      "er_sie_es": "wird verkaufen",
+      "wir": "werden verkaufen",
+      "ihr": "werdet verkaufen",
+      "sie_Sie": "werden verkaufen"
+    }
+  },
+  {
+    "id": 32,
+    "infinitive": "geben",
+    "ar": "يعطي",
+    "praesens": {
+      "ich": "gebe",
+      "du": "gibst",
+      "er_sie_es": "gibt",
+      "wir": "geben",
+      "ihr": "gebt",
+      "sie_Sie": "geben"
+    },
+    "praeteritum": {
+      "ich": "gab",
+      "du": "gabst",
+      "er_sie_es": "gab",
+      "wir": "gaben",
+      "ihr": "gabt",
+      "sie_Sie": "gaben"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gegeben",
+      "ich": "habe gegeben",
+      "du": "hast gegeben",
+      "er_sie_es": "hat gegeben",
+      "wir": "haben gegeben",
+      "ihr": "habt gegeben",
+      "sie_Sie": "haben gegeben"
+    },
+    "futur": {
+      "ich": "werde geben",
+      "du": "wirst geben",
+      "er_sie_es": "wird geben",
+      "wir": "werden geben",
+      "ihr": "werdet geben",
+      "sie_Sie": "werden geben"
+    }
+  },
+  {
+    "id": 33,
+    "infinitive": "nehmen",
+    "ar": "يأخذ",
+    "praesens": {
+      "ich": "nehme",
+      "du": "nimmst",
+      "er_sie_es": "nimmt",
+      "wir": "nehmen",
+      "ihr": "nehmt",
+      "sie_Sie": "nehmen"
+    },
+    "praeteritum": {
+      "ich": "nahm",
+      "du": "nahmst",
+      "er_sie_es": "nahm",
+      "wir": "nahmen",
+      "ihr": "nahmt",
+      "sie_Sie": "nahmen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "genommen",
+      "ich": "habe genommen",
+      "du": "hast genommen",
+      "er_sie_es": "hat genommen",
+      "wir": "haben genommen",
+      "ihr": "habt genommen",
+      "sie_Sie": "haben genommen"
+    },
+    "futur": {
+      "ich": "werde nehmen",
+      "du": "wirst nehmen",
+      "er_sie_es": "wird nehmen",
+      "wir": "werden nehmen",
+      "ihr": "werdet nehmen",
+      "sie_Sie": "werden nehmen"
+    }
+  },
+  {
+    "id": 34,
+    "infinitive": "finden",
+    "ar": "يجد",
+    "praesens": {
+      "ich": "finde",
+      "du": "findest",
+      "er_sie_es": "findet",
+      "wir": "finden",
+      "ihr": "findet",
+      "sie_Sie": "finden"
+    },
+    "praeteritum": {
+      "ich": "fand",
+      "du": "fandest",
+      "er_sie_es": "fand",
+      "wir": "fanden",
+      "ihr": "fandet",
+      "sie_Sie": "fanden"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gefunden",
+      "ich": "habe gefunden",
+      "du": "hast gefunden",
+      "er_sie_es": "hat gefunden",
+      "wir": "haben gefunden",
+      "ihr": "habt gefunden",
+      "sie_Sie": "haben gefunden"
+    },
+    "futur": {
+      "ich": "werde finden",
+      "du": "wirst finden",
+      "er_sie_es": "wird finden",
+      "wir": "werden finden",
+      "ihr": "werdet finden",
+      "sie_Sie": "werden finden"
+    }
+  },
+  {
+    "id": 35,
+    "infinitive": "suchen",
+    "ar": "يبحث",
+    "praesens": {
+      "ich": "suche",
+      "du": "suchst",
+      "er_sie_es": "sucht",
+      "wir": "suchen",
+      "ihr": "sucht",
+      "sie_Sie": "suchen"
+    },
+    "praeteritum": {
+      "ich": "suchte",
+      "du": "suchtest",
+      "er_sie_es": "suchte",
+      "wir": "suchten",
+      "ihr": "suchtet",
+      "sie_Sie": "suchten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gesucht",
+      "ich": "habe gesucht",
+      "du": "hast gesucht",
+      "er_sie_es": "hat gesucht",
+      "wir": "haben gesucht",
+      "ihr": "habt gesucht",
+      "sie_Sie": "haben gesucht"
+    },
+    "futur": {
+      "ich": "werde suchen",
+      "du": "wirst suchen",
+      "er_sie_es": "wird suchen",
+      "wir": "werden suchen",
+      "ihr": "werdet suchen",
+      "sie_Sie": "werden suchen"
+    }
+  },
+  {
+    "id": 36,
+    "infinitive": "helfen",
+    "ar": "يساعد",
+    "praesens": {
+      "ich": "helfe",
+      "du": "hilfst",
+      "er_sie_es": "hilft",
+      "wir": "helfen",
+      "ihr": "helft",
+      "sie_Sie": "helfen"
+    },
+    "praeteritum": {
+      "ich": "half",
+      "du": "halfst",
+      "er_sie_es": "half",
+      "wir": "halfen",
+      "ihr": "halft",
+      "sie_Sie": "halfen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geholfen",
+      "ich": "habe geholfen",
+      "du": "hast geholfen",
+      "er_sie_es": "hat geholfen",
+      "wir": "haben geholfen",
+      "ihr": "habt geholfen",
+      "sie_Sie": "haben geholfen"
+    },
+    "futur": {
+      "ich": "werde helfen",
+      "du": "wirst helfen",
+      "er_sie_es": "wird helfen",
+      "wir": "werden helfen",
+      "ihr": "werdet helfen",
+      "sie_Sie": "werden helfen"
+    }
+  },
+  {
+    "id": 37,
+    "infinitive": "brauchen",
+    "ar": "يحتاج",
+    "praesens": {
+      "ich": "brauche",
+      "du": "brauchst",
+      "er_sie_es": "braucht",
+      "wir": "brauchen",
+      "ihr": "braucht",
+      "sie_Sie": "brauchen"
+    },
+    "praeteritum": {
+      "ich": "brauchte",
+      "du": "brauchtest",
+      "er_sie_es": "brauchte",
+      "wir": "brauchten",
+      "ihr": "brauchtet",
+      "sie_Sie": "brauchten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gebraucht",
+      "ich": "habe gebraucht",
+      "du": "hast gebraucht",
+      "er_sie_es": "hat gebraucht",
+      "wir": "haben gebraucht",
+      "ihr": "habt gebraucht",
+      "sie_Sie": "haben gebraucht"
+    },
+    "futur": {
+      "ich": "werde brauchen",
+      "du": "wirst brauchen",
+      "er_sie_es": "wird brauchen",
+      "wir": "werden brauchen",
+      "ihr": "werdet brauchen",
+      "sie_Sie": "werden brauchen"
+    }
+  },
+  {
+    "id": 38,
+    "infinitive": "wissen",
+    "ar": "يعرف (معلومة)",
+    "praesens": {
+      "ich": "weiß",
+      "du": "weißt",
+      "er_sie_es": "weiß",
+      "wir": "wissen",
+      "ihr": "wisst",
+      "sie_Sie": "wissen"
+    },
+    "praeteritum": {
+      "ich": "wusste",
+      "du": "wusstest",
+      "er_sie_es": "wusste",
+      "wir": "wussten",
+      "ihr": "wusstet",
+      "sie_Sie": "wussten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gewusst",
+      "ich": "habe gewusst",
+      "du": "hast gewusst",
+      "er_sie_es": "hat gewusst",
+      "wir": "haben gewusst",
+      "ihr": "habt gewusst",
+      "sie_Sie": "haben gewusst"
+    },
+    "futur": {
+      "ich": "werde wissen",
+      "du": "wirst wissen",
+      "er_sie_es": "wird wissen",
+      "wir": "werden wissen",
+      "ihr": "werdet wissen",
+      "sie_Sie": "werden wissen"
+    }
+  },
+  {
+    "id": 39,
+    "infinitive": "kennen",
+    "ar": "يعرف (شخصاً)",
+    "praesens": {
+      "ich": "kenne",
+      "du": "kennst",
+      "er_sie_es": "kennt",
+      "wir": "kennen",
+      "ihr": "kennt",
+      "sie_Sie": "kennen"
+    },
+    "praeteritum": {
+      "ich": "kannte",
+      "du": "kanntest",
+      "er_sie_es": "kannte",
+      "wir": "kannten",
+      "ihr": "kanntet",
+      "sie_Sie": "kannten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gekannt",
+      "ich": "habe gekannt",
+      "du": "hast gekannt",
+      "er_sie_es": "hat gekannt",
+      "wir": "haben gekannt",
+      "ihr": "habt gekannt",
+      "sie_Sie": "haben gekannt"
+    },
+    "futur": {
+      "ich": "werde kennen",
+      "du": "wirst kennen",
+      "er_sie_es": "wird kennen",
+      "wir": "werden kennen",
+      "ihr": "werdet kennen",
+      "sie_Sie": "werden kennen"
+    }
+  },
+  {
+    "id": 40,
+    "infinitive": "denken",
+    "ar": "يفكر",
+    "praesens": {
+      "ich": "denke",
+      "du": "denkst",
+      "er_sie_es": "denkt",
+      "wir": "denken",
+      "ihr": "denkt",
+      "sie_Sie": "denken"
+    },
+    "praeteritum": {
+      "ich": "dachte",
+      "du": "dachtest",
+      "er_sie_es": "dachte",
+      "wir": "dachten",
+      "ihr": "dachtet",
+      "sie_Sie": "dachten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "gedacht",
+      "ich": "habe gedacht",
+      "du": "hast gedacht",
+      "er_sie_es": "hat gedacht",
+      "wir": "haben gedacht",
+      "ihr": "habt gedacht",
+      "sie_Sie": "haben gedacht"
+    },
+    "futur": {
+      "ich": "werde denken",
+      "du": "wirst denken",
+      "er_sie_es": "wird denken",
+      "wir": "werden denken",
+      "ihr": "werdet denken",
+      "sie_Sie": "werden denken"
+    }
+  },
+  {
+    "id": 41,
+    "infinitive": "glauben",
+    "ar": "يعتقد",
+    "praesens": {
+      "ich": "glaube",
+      "du": "glaubst",
+      "er_sie_es": "glaubt",
+      "wir": "glauben",
+      "ihr": "glaubt",
+      "sie_Sie": "glauben"
+    },
+    "praeteritum": {
+      "ich": "glaubte",
+      "du": "glaubtest",
+      "er_sie_es": "glaubte",
+      "wir": "glaubten",
+      "ihr": "glaubtet",
+      "sie_Sie": "glaubten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geglaubt",
+      "ich": "habe geglaubt",
+      "du": "hast geglaubt",
+      "er_sie_es": "hat geglaubt",
+      "wir": "haben geglaubt",
+      "ihr": "habt geglaubt",
+      "sie_Sie": "haben geglaubt"
+    },
+    "futur": {
+      "ich": "werde glauben",
+      "du": "wirst glauben",
+      "er_sie_es": "wird glauben",
+      "wir": "werden glauben",
+      "ihr": "werdet glauben",
+      "sie_Sie": "werden glauben"
+    }
+  },
+  {
+    "id": 42,
+    "infinitive": "verstehen",
+    "ar": "يفهم",
+    "praesens": {
+      "ich": "verstehe",
+      "du": "verstehst",
+      "er_sie_es": "versteht",
+      "wir": "verstehen",
+      "ihr": "versteht",
+      "sie_Sie": "verstehen"
+    },
+    "praeteritum": {
+      "ich": "verstand",
+      "du": "verstandest",
+      "er_sie_es": "verstand",
+      "wir": "verstanden",
+      "ihr": "verstandet",
+      "sie_Sie": "verstanden"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "verstanden",
+      "ich": "habe verstanden",
+      "du": "hast verstanden",
+      "er_sie_es": "hat verstanden",
+      "wir": "haben verstanden",
+      "ihr": "habt verstanden",
+      "sie_Sie": "haben verstanden"
+    },
+    "futur": {
+      "ich": "werde verstehen",
+      "du": "wirst verstehen",
+      "er_sie_es": "wird verstehen",
+      "wir": "werden verstehen",
+      "ihr": "werdet verstehen",
+      "sie_Sie": "werden verstehen"
+    }
+  },
+  {
+    "id": 43,
+    "infinitive": "erklären",
+    "ar": "يشرح",
+    "praesens": {
+      "ich": "erkläre",
+      "du": "erklärst",
+      "er_sie_es": "erklärt",
+      "wir": "erklären",
+      "ihr": "erklärt",
+      "sie_Sie": "erklären"
+    },
+    "praeteritum": {
+      "ich": "erklärte",
+      "du": "erklärtest",
+      "er_sie_es": "erklärte",
+      "wir": "erklärten",
+      "ihr": "erklärtet",
+      "sie_Sie": "erklärten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "erklärt",
+      "ich": "habe erklärt",
+      "du": "hast erklärt",
+      "er_sie_es": "hat erklärt",
+      "wir": "haben erklärt",
+      "ihr": "habt erklärt",
+      "sie_Sie": "haben erklärt"
+    },
+    "futur": {
+      "ich": "werde erklären",
+      "du": "wirst erklären",
+      "er_sie_es": "wird erklären",
+      "wir": "werden erklären",
+      "ihr": "werdet erklären",
+      "sie_Sie": "werden erklären"
+    }
+  },
+  {
+    "id": 44,
+    "infinitive": "öffnen",
+    "ar": "يفتح",
+    "praesens": {
+      "ich": "öffne",
+      "du": "öffnest",
+      "er_sie_es": "öffnet",
+      "wir": "öffnen",
+      "ihr": "öffnet",
+      "sie_Sie": "öffnen"
+    },
+    "praeteritum": {
+      "ich": "öffnete",
+      "du": "öffnetest",
+      "er_sie_es": "öffnete",
+      "wir": "öffneten",
+      "ihr": "öffnetet",
+      "sie_Sie": "öffneten"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geöffnet",
+      "ich": "habe geöffnet",
+      "du": "hast geöffnet",
+      "er_sie_es": "hat geöffnet",
+      "wir": "haben geöffnet",
+      "ihr": "habt geöffnet",
+      "sie_Sie": "haben geöffnet"
+    },
+    "futur": {
+      "ich": "werde öffnen",
+      "du": "wirst öffnen",
+      "er_sie_es": "wird öffnen",
+      "wir": "werden öffnen",
+      "ihr": "werdet öffnen",
+      "sie_Sie": "werden öffnen"
+    }
+  },
+  {
+    "id": 45,
+    "infinitive": "schließen",
+    "ar": "يغلق",
+    "praesens": {
+      "ich": "schließe",
+      "du": "schließt",
+      "er_sie_es": "schließt",
+      "wir": "schließen",
+      "ihr": "schließt",
+      "sie_Sie": "schließen"
+    },
+    "praeteritum": {
+      "ich": "schloss",
+      "du": "schlossest",
+      "er_sie_es": "schloss",
+      "wir": "schlossen",
+      "ihr": "schlosst",
+      "sie_Sie": "schlossen"
+    },
+    "perfekt": {
+      "hilfsverb": "haben",
+      "partizip": "geschlossen",
+      "ich": "habe geschlossen",
+      "du": "hast geschlossen",
+      "er_sie_es": "hat geschlossen",
+      "wir": "haben geschlossen",
+      "ihr": "habt geschlossen",
+      "sie_Sie": "haben geschlossen"
+    },
+    "futur": {
+      "ich": "werde schließen",
+      "du": "wirst schließen",
+      "er_sie_es": "wird schließen",
+      "wir": "werden schließen",
+      "ihr": "werdet schließen",
+      "sie_Sie": "werden schließen"
+    }
+  },
+  {
+    "id": 46,
+    "infinitive": "fahren",
+    "ar": "يقود/يسافر",
+    "praesens": {
+      "ich": "fahre",
+      "du": "fährst",
+      "er_sie_es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie_Sie": "fahren"
+    },
+    "praeteritum": {
+      "ich": "fuhr",
+      "du": "fuhrst",
+      "er_sie_es": "fuhr",
+      "wir": "fuhren",
+      "ihr": "fuhrt",
+      "sie_Sie": "fuhren"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "gefahren",
+      "ich": "bin gefahren",
+      "du": "bist gefahren",
+      "er_sie_es": "ist gefahren",
+      "wir": "sind gefahren",
+      "ihr": "seid gefahren",
+      "sie_Sie": "sind gefahren"
+    },
+    "futur": {
+      "ich": "werde fahren",
+      "du": "wirst fahren",
+      "er_sie_es": "wird fahren",
+      "wir": "werden fahren",
+      "ihr": "werdet fahren",
+      "sie_Sie": "werden fahren"
+    }
+  },
+  {
+    "id": 47,
+    "infinitive": "fliegen",
+    "ar": "يطير",
+    "praesens": {
+      "ich": "fliege",
+      "du": "fliegst",
+      "er_sie_es": "fliegt",
+      "wir": "fliegen",
+      "ihr": "fliegt",
+      "sie_Sie": "fliegen"
+    },
+    "praeteritum": {
+      "ich": "flog",
+      "du": "flogst",
+      "er_sie_es": "flog",
+      "wir": "flogen",
+      "ihr": "flogt",
+      "sie_Sie": "flogen"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "geflogen",
+      "ich": "bin geflogen",
+      "du": "bist geflogen",
+      "er_sie_es": "ist geflogen",
+      "wir": "sind geflogen",
+      "ihr": "seid geflogen",
+      "sie_Sie": "sind geflogen"
+    },
+    "futur": {
+      "ich": "werde fliegen",
+      "du": "wirst fliegen",
+      "er_sie_es": "wird fliegen",
+      "wir": "werden fliegen",
+      "ihr": "werdet fliegen",
+      "sie_Sie": "werden fliegen"
+    }
+  },
+  {
+    "id": 48,
+    "infinitive": "laufen",
+    "ar": "يركض",
+    "praesens": {
+      "ich": "laufe",
+      "du": "läufst",
+      "er_sie_es": "läuft",
+      "wir": "laufen",
+      "ihr": "lauft",
+      "sie_Sie": "laufen"
+    },
+    "praeteritum": {
+      "ich": "lief",
+      "du": "liefst",
+      "er_sie_es": "lief",
+      "wir": "liefen",
+      "ihr": "lieft",
+      "sie_Sie": "liefen"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "gelaufen",
+      "ich": "bin gelaufen",
+      "du": "bist gelaufen",
+      "er_sie_es": "ist gelaufen",
+      "wir": "sind gelaufen",
+      "ihr": "seid gelaufen",
+      "sie_Sie": "sind gelaufen"
+    },
+    "futur": {
+      "ich": "werde laufen",
+      "du": "wirst laufen",
+      "er_sie_es": "wird laufen",
+      "wir": "werden laufen",
+      "ihr": "werdet laufen",
+      "sie_Sie": "werden laufen"
+    }
+  },
+  {
+    "id": 49,
+    "infinitive": "schwimmen",
+    "ar": "يسبح",
+    "praesens": {
+      "ich": "schwimme",
+      "du": "schwimmst",
+      "er_sie_es": "schwimmt",
+      "wir": "schwimmen",
+      "ihr": "schwimmt",
+      "sie_Sie": "schwimmen"
+    },
+    "praeteritum": {
+      "ich": "schwamm",
+      "du": "schwammst",
+      "er_sie_es": "schwamm",
+      "wir": "schwammen",
+      "ihr": "schwammt",
+      "sie_Sie": "schwammen"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "geschwommen",
+      "ich": "bin geschwommen",
+      "du": "bist geschwommen",
+      "er_sie_es": "ist geschwommen",
+      "wir": "sind geschwommen",
+      "ihr": "seid geschwommen",
+      "sie_Sie": "sind geschwommen"
+    },
+    "futur": {
+      "ich": "werde schwimmen",
+      "du": "wirst schwimmen",
+      "er_sie_es": "wird schwimmen",
+      "wir": "werden schwimmen",
+      "ihr": "werdet schwimmen",
+      "sie_Sie": "werden schwimmen"
+    }
+  },
+  {
+    "id": 50,
+    "infinitive": "bleiben",
+    "ar": "يبقى",
+    "praesens": {
+      "ich": "bleibe",
+      "du": "bleibst",
+      "er_sie_es": "bleibt",
+      "wir": "bleiben",
+      "ihr": "bleibt",
+      "sie_Sie": "bleiben"
+    },
+    "praeteritum": {
+      "ich": "blieb",
+      "du": "bliebst",
+      "er_sie_es": "blieb",
+      "wir": "blieben",
+      "ihr": "bliebt",
+      "sie_Sie": "blieben"
+    },
+    "perfekt": {
+      "hilfsverb": "sein",
+      "partizip": "geblieben",
+      "ich": "bin geblieben",
+      "du": "bist geblieben",
+      "er_sie_es": "ist geblieben",
+      "wir": "sind geblieben",
+      "ihr": "seid geblieben",
+      "sie_Sie": "sind geblieben"
+    },
+    "futur": {
+      "ich": "werde bleiben",
+      "du": "wirst bleiben",
+      "er_sie_es": "wird bleiben",
+      "wir": "werden bleiben",
+      "ihr": "werdet bleiben",
+      "sie_Sie": "werden bleiben"
+    }
+  }
+]
