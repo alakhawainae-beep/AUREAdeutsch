@@ -6,6 +6,8 @@ import 'package:flutter/material.dart';
 import '../../models/vocab_word.dart';
 import '../../services/content_service.dart';
 import '../../services/tts_service.dart';
+import '../../services/balloon_audio_service.dart';
+import 'package:audioplayers/audioplayers.dart';
 import '../../theme/app_theme.dart';
 
 class BalloonGame extends StatefulWidget {
@@ -23,6 +25,8 @@ class _BalloonGameState extends State<BalloonGame>
 
   final _random = Random();
   List<VocabWord> _words = [];
+  final BalloonAudioService _audioService = BalloonAudioService();
+final AudioPlayer _nativePlayer = AudioPlayer();
   List<_BalloonData> _balloons = [];
   VocabWord? _target;
   int _score = 0;
@@ -50,6 +54,8 @@ class _BalloonGameState extends State<BalloonGame>
   @override
   void initState() {
     super.initState();
+      _audioService.init(); // زيد هاد السطر
+
     _explosionCtrl = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 700),
@@ -60,6 +66,7 @@ class _BalloonGameState extends State<BalloonGame>
     )..repeat();
     _bootstrap();
   }
+  
 
   Future<void> _bootstrap() async {
     final words = await ContentService.instance.loadWords();
@@ -139,12 +146,14 @@ class _BalloonGameState extends State<BalloonGame>
     final local = box?.globalToLocal(globalPos) ?? globalPos;
 
     if (correct) {
-      setState(() {
-        _score += 10 + (_timeLeft * 5).round();
-        _popPosition = local;
-        _popArabic = balloon.word.ar;
-      });
-      _explosionCtrl.forward(from: 0);
+    setState(() {
+      _score += 10 + (_timeleft * 5).round();
+      _popPosition = local;
+      _popArabic = balloon.word.ar;
+    });
+    // 🔊 صوت أصلي من Wikimedia ولا TTS إلا ما لقاهش
+    _audioService.playLetter(balloon.word.de);
+    _explosionCtrl.forward(from: 0);
       Future.delayed(const Duration(milliseconds: 900), () {
         if (mounted) _startRound();
       });
